@@ -1,0 +1,2 @@
+rootProject.name='img_base64'
+include ':app'
